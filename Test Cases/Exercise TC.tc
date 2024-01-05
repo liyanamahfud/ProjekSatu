@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Exercise TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f70cb5c3-a93f-4c90-a878-3c101d1a1abd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d05bada-88d6-4032-96ad-bbf18e8865d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>8d05bada-88d6-4032-96ad-bbf18e8865d3</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+</TestCaseEntity>

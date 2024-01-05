@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointLoginSuite2</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginTestData2</source-url>
+   </source-info>
+   <taken-date>2024-01-05T09:44:43.374</taken-date>
+   <column-names>
+      <column-name>url</column-name>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+      "checked": false
+    },
+    {
+      "value": "Admin",
+      "checked": true
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+      "checked": false
+    },
+    {
+      "value": "Faris 2",
+      "checked": true
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+      "checked": false
+    },
+    {
+      "value": "Liyana 3",
+      "checked": true
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

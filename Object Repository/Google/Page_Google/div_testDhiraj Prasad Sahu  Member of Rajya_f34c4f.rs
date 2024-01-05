@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_testDhiraj Prasad Sahu  Member of Rajya_f34c4f</name>
+   <tag></tag>
+   <elementGuidId>5eab5a61-eef5-4477-bc77-9770891654fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.eIPGRd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Alh6id']/div/div/ul/li/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed3ae71c-41cf-4487-a214-6fae55e337f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eIPGRd</value>
+      <webElementGuid>8ad5e2a8-5d97-4201-badb-c78797b944c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testDhiraj Prasad Sahu — Member of Rajya Sabha.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.U48fD.ke7M4{padding-left:0;padding-right:0}.jRKCUd::before{bottom:12px;content:'';left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:100%;max-width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}@media (forced-colors:active){.ZFiwCf{border:1px solid transparent}}.TQc1id .ZFiwCf{max-width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more.JCHpcb:hover,.LvqzR .JCHpcb{color:#1558d6;text-decoration:underline}.JCHpcb{color:#70757a;font:13px arial,sans-serif;cursor:pointer;align-self:center}@media (hover:hover){.sbai{visibility:hidden}.sbhl .sbai{visibility:inherit}}Delete</value>
+      <webElementGuid>f554415e-204b-4bbb-bdaa-6dd6aea6195a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Alh6id&quot;)/div[@class=&quot;erkvQe&quot;]/div[@class=&quot;OBMEnb&quot;]/ul[@class=&quot;G43f7e&quot;]/li[@class=&quot;sbct sbhl&quot;]/div[@class=&quot;eIPGRd&quot;]</value>
+      <webElementGuid>41e28901-a05b-444d-8690-81fdcb8485df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Alh6id']/div/div/ul/li/div</value>
+      <webElementGuid>e9349192-e902-46e1-af87-1799b4f70a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[30]</value>
+      <webElementGuid>c7cad7dc-be01-4040-a0b6-f951b2aa3b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::div[35]</value>
+      <webElementGuid>66a34b6c-e079-444b-b9ea-93bf0afd50b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>829dd321-8013-438d-9e9f-327394255d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;testDhiraj Prasad Sahu — Member of Rajya Sabha.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.U48fD.ke7M4{padding-left:0;padding-right:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:100%;max-width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}@media (forced-colors:active){.ZFiwCf{border:1px solid transparent}}.TQc1id .ZFiwCf{max-width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more.JCHpcb:hover,.LvqzR .JCHpcb{color:#1558d6;text-decoration:underline}.JCHpcb{color:#70757a;font:13px arial,sans-serif;cursor:pointer;align-self:center}@media (hover:hover){.sbai{visibility:hidden}.sbhl .sbai{visibility:inherit}}Delete&quot;) or . = concat(&quot;testDhiraj Prasad Sahu — Member of Rajya Sabha.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.U48fD.ke7M4{padding-left:0;padding-right:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:100%;max-width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}@media (forced-colors:active){.ZFiwCf{border:1px solid transparent}}.TQc1id .ZFiwCf{max-width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more.JCHpcb:hover,.LvqzR .JCHpcb{color:#1558d6;text-decoration:underline}.JCHpcb{color:#70757a;font:13px arial,sans-serif;cursor:pointer;align-self:center}@media (hover:hover){.sbai{visibility:hidden}.sbhl .sbai{visibility:inherit}}Delete&quot;))]</value>
+      <webElementGuid>2d64c79c-2d14-49d5-8b1a-ba5ebbb0e0ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

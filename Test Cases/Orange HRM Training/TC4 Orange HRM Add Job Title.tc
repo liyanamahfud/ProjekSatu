@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 Orange HRM Add Job Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cca49496-3873-44f3-85e1-4ff316d9586f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8f56c34-ced5-4cb4-a34d-5c2e6b7faa73</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dafc056e-f243-482a-95e5-44d5070c4e80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e571eb41-7586-41da-980b-c8b99567aa6c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'JB2'</defaultValue>
+      <description></description>
+      <id>e8f56c34-ced5-4cb4-a34d-5c2e6b7faa73</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'desciption 2'</defaultValue>
+      <description></description>
+      <id>dafc056e-f243-482a-95e5-44d5070c4e80</id>
+      <masked>false</masked>
+      <name>jobDescroption</name>
+   </variable>
+   <variable>
+      <defaultValue>'nota 2'</defaultValue>
+      <description></description>
+      <id>e571eb41-7586-41da-980b-c8b99567aa6c</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

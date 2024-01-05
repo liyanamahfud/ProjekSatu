@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>14a05b7f-3039-48b6-919a-0572b9fcbd95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#share-button > div.fui-Flex.___1ks0vaw.f22iagw.f1k3vf2q.fpjrses.f16p6fhc.fqerorx.f1pztt34 > div.ui-toolbar__itemicon > svg.fui-Icon-filled.___1vjqft9.fjseox.fez10in.fg4l7m0 > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>d8838089-283a-46c3-8aeb-b5901adf0513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4.5 4A2.5 2.5 0 0 0 2 6.5v7A2.5 2.5 0 0 0 4.5 16h11a2.5 2.5 0 0 0 2.5-2.5v-7A2.5 2.5 0 0 0 15.5 4h-11Zm2.65 3.15c.2-.2.5-.2.7 0L10 9.29l2.15-2.14a.5.5 0 0 1 .7.7L10.71 10l2.14 2.15a.5.5 0 0 1-.7.7L10 10.71l-2.15 2.14a.5.5 0 0 1-.7-.7L9.29 10 7.15 7.85a.5.5 0 0 1 0-.7Z</value>
+      <webElementGuid>0f079327-5522-44a7-b109-e927cd3a07c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>bf413996-494f-4bbd-b848-b485c24ecf17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;share-button&quot;)/div[@class=&quot;fui-Flex ___1ks0vaw f22iagw f1k3vf2q fpjrses f16p6fhc fqerorx f1pztt34&quot;]/div[@class=&quot;ui-toolbar__itemicon&quot;]/svg[@class=&quot;fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0&quot;]/path[1]</value>
+      <webElementGuid>5438771d-ad27-4448-921b-607a8e240f45</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

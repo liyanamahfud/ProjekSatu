@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test run</description>
+   <name>TC1 HRM Login - Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe133865-3e68-4dea-b333-7344c94b6079</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8cb49648-6863-4762-8879-56fc89485521</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginTestData2</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8cb49648-6863-4762-8879-56fc89485521</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>c2622f88-fc09-42e0-94a9-ee70946fe1b1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>8cb49648-6863-4762-8879-56fc89485521</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>dce9769a-330a-46f0-8733-b167c977973f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>8cb49648-6863-4762-8879-56fc89485521</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>e436a753-d665-4ac0-924a-45064f21774b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'</defaultValue>
+      <description></description>
+      <id>c2622f88-fc09-42e0-94a9-ee70946fe1b1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>dce9769a-330a-46f0-8733-b167c977973f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>e436a753-d665-4ac0-924a-45064f21774b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 CURA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2282f096-b369-42c0-b25a-5074ca5fed6c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>173d8e9c-d91d-4d40-8c3f-68aa1011c4a6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/CuraLogin</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>173d8e9c-d91d-4d40-8c3f-68aa1011c4a6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>46b40bb1-bc0b-44bb-8aae-59cb6298c4bc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>173d8e9c-d91d-4d40-8c3f-68aa1011c4a6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>f42bbfb8-87b7-46b5-80f4-6a0ab85db16b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>173d8e9c-d91d-4d40-8c3f-68aa1011c4a6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>e9207929-d95f-499b-ad65-a754acafcb29</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46b40bb1-bc0b-44bb-8aae-59cb6298c4bc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f42bbfb8-87b7-46b5-80f4-6a0ab85db16b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9207929-d95f-499b-ad65-a754acafcb29</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

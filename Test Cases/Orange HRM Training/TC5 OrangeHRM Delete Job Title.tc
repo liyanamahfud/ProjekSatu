@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5 OrangeHRM Delete Job Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6d7ac54-87dc-49a7-b3e6-c000db80c21c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02c11352-e42c-4d73-827d-fd59709c49df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Chief Executive Officer,IT Manager'</defaultValue>
+      <description></description>
+      <id>02c11352-e42c-4d73-827d-fd59709c49df</id>
+      <masked>false</masked>
+      <name>jobTitles</name>
+   </variable>
+</TestCaseEntity>

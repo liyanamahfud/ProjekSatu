@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Muhammad Faris Fildza Che Mohammad Idza_3048f8</name>
+   <tag></tag>
+   <elementGuidId>2fbb2584-8ba3-48db-a741-19f9d7d81184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Faris Fildza Che Mohammad Idza'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.fui-Button.r1alrhcs.___d3xkgg0.f1c21dwh.f1p3nwhy.f11589ue.f1q5o8ev.f1pdflbu.fkfq4zb.fjxutwb.f1s2uweq.fr80ssc.f1ukrpxl.fecsdlb.f139oj5f.ft1hn21.fuxngvv.fwiml72.f1h0usnq.fs4ktlq.f16h9ulv.fx2bmrt.f1fg1p5m.f1dfjoow.f1j98vj9.f1tme0vf.f4xjyn1.f18onu3q.f9ddjv3.f1sbtcvk.fwiuce9.fdghr9.f15vdbe4.fwbmr0d.f44c6la > span.fui-Button__icon.rywnvv2 > svg.fui-Icon-filled.___1vjqft9.fjseox.fez10in.fg4l7m0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>06d56bea-04af-4030-b119-576c82e4c3c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>16px</value>
+      <webElementGuid>f8a35787-4ad1-424d-9eea-36b21ff3711d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0</value>
+      <webElementGuid>79bfe5c4-4e0e-4276-985b-1b41254f426c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>d38859d7-21fd-4912-b039-5739bcb83529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>87485ade-f938-473e-a2dd-ba04de63014d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>1d3d6945-cb61-4e55-8685-49895cb1eeee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>00be755a-c5d8-4be3-b714-3008d8700c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>7a25702d-f587-4dd4-b67e-d1aa6ce2f700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>43d179fc-1bdb-4d33-b393-8a44daaaa75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;fui-FluentProvider fui-FluentProvider1 r1ugpin8 ___puo6vg0 f19n0e5 f3rmtva f1o700av fk6fouc fkhj508 figsok6 f8497fr&quot;]/div[1]/div[@class=&quot;fui-AppLayout ___q1qi5v0 f1ewtqcl f13qh94s f1l02sjl f1immsc2 f6dzj5z f10pi13n fly5x3f&quot;]/div[@class=&quot;fui-AppLayoutArea ___12tqkij f1ewtqcl f1immsc2 f6dzj5z f10pi13n f1lvyeyc fg8on96 f12yfnp8 fu8uai f15ot9ch fotbto3 f9j7yib fgapnxa fp7fyc7 fscomfg fj4hbl5 fnd27dd f1bz1uzf f1c1ydxl f1t1u2ct f1nfo08k fzkari6 fn47ynk f1hilwmy fkhqc4a f317pbp fn3h6uf f1w5tgp0 f18qlix4 f1nhcv8x f1i6jfn5 fm0kgxf f145b19v&quot;]/div[1]/div[@class=&quot;fui-FluentProvider fui-FluentProvider4 ___1h2ib0s f19n0e5 fxugw4r f1o700av fk6fouc fkhj508 figsok6 f1i3iumi fw9d4ui funnff6 f1n2bkgp fyxyu0g f1ezctqc f9ilsiw fftlyg8 f1c2aajt f42plo&quot;]/div[@class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak al am an ao ap&quot;]/div[@class=&quot;fui-Flex ___qud7ig0 f22iagw f1vx9l62 fly5x3f f1l02sjl f10pi13n&quot;]/div[@class=&quot;fui-Flex ___1oslqzm f22iagw fly5x3f f1l02sjl f1jhi6b8 f1p9o1ba f1sil6mw&quot;]/div[@class=&quot;fui-Flex ___1e0d4k6 f22iagw fly5x3f f1l02sjl f10pi13n f1rmlqtg fqerorx f1neuvcm f2bep7z f1um3hoe f1ma6xhg fhrh8jj fzkkow9 fcdblym fg706s2 fjik90z fo8z57v fa8zu9y f1h175e f17e9lqh&quot;]/div[@class=&quot;fui-Flex ___1oslqzm f22iagw fly5x3f f1l02sjl f1jhi6b8 f1p9o1ba f1sil6mw&quot;]/div[@class=&quot;fui-Flex ___1m6cf63 f22iagw fly5x3f f1l02sjl&quot;]/div[@class=&quot;fui-Flex ___1m6cf63 f22iagw fly5x3f f1l02sjl&quot;]/div[@class=&quot;fui-Flex ___1gzszts f22iagw&quot;]/div[@class=&quot;fui-Flex ___1p0yhdb f22iagw fbhxue7 f6jr5hl&quot;]/div[@class=&quot;fui-Flex ___1gzszts f22iagw&quot;]/div[@class=&quot;fui-Primitive ___patbp00 fly5x3f f1l02sjl f1p9o1ba f1sil6mw f10pi13n&quot;]/div[@class=&quot;fui-Primitive ___t6nqfm0 f15twtuk f1vgc2s3 fly5x3f f1l02sjl&quot;]/div[@class=&quot;fui-Primitive&quot;]/div[@class=&quot;fui-Flex ___ofjop50 f22iagw f1euv43f fc5wo7j ftqa4ok f2hkw1w f8hki3x f1d2448m f1bjia2o ffh67wi f15bsgw9 f14e48fq f18yb2kv fd6o370 fh1cnn4 fy7oxxb fpukqih f184ne2d frrh606 f1v5zibi ful5kiu fo2hd23 f2k28qr fu5flby f1a0etel f10lxzz4 f1dvezut fd0oaoj fjvm52t f1cwg4i8 f57olzd f4stah7 f480a47 fs1por5 f1ovgixi f4d9j23 f4hs27q f1hnnn5f f1pfwqqz f5gshhg fzkkow9 fcdblym fg706s2 fjik90z fo8z57v fa8zu9y f1h175e f17e9lqh f16xq7d1&quot;]/div[@class=&quot;fui-Primitive ___16le8o6 f1yab3r1 f11ysow2 f1vgc2s3 f1euv43f fly5x3f f1akjn56 fc5wo7j&quot;]/div[@class=&quot;fui-Flex vdi-occlusion ___1d0k7eo f22iagw f122n59 f1mem4qo f1at4ntt f3lzwq7 f1euv43f f1k120tj f14z66ap fbhxue7 fndd16v&quot;]/div[@class=&quot;fui-Flex show-only-on-stream-hover ___1gzszts f22iagw&quot;]/div[@class=&quot;fui-Primitive ___1ah0d8f f1at4ntt f10pi13n f1kdaspl f12ddu2t f1aa9q02 f16jpd5f f1jar5jt fyu767a f1g0x7ka fhxju0i f1qch9an f1cnd47f&quot;]/div[@class=&quot;fui-Flex ___sj84i60 f22iagw f122n59 f4d9j23 fly5x3f f1l02sjl f1e31b4d fp3kgg6 f10wthxi f8emrk0 f1yakq0c f1qad3hc f67vwp1 fjgfdjw f1tt81h6 f1ilrm71 f1d8nryf f9cn9qn fsfz5xl fs7jrns f1dhp515 f1ai347z fdmqbjp f1s88ler fnjnfe3 fpt9yq0 f6h0wu4 f194t98w f1hflb90 f16uhghm f1izyqd7 f1m4e71n foqgkbj f1axor6y f1xb1gc2 ftg8l25&quot;]/div[@class=&quot;fui-Toolbar ___1876dvf f22iagw f122n59 f10ra9hq f19lj068 f1y2xyjm f177v4lu&quot;]/div[@class=&quot;fui-ToolbarGroup&quot;]/button[@class=&quot;fui-Button r1alrhcs ___d3xkgg0 f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 f1tme0vf f4xjyn1 f18onu3q f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la&quot;]/span[@class=&quot;fui-Button__icon rywnvv2&quot;]/svg[@class=&quot;fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0&quot;]</value>
+      <webElementGuid>4a46320d-ea84-4634-b4b0-9dab0dc13811</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Faris Fildza Che Mohammad Idza'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c7b86d32-777e-41a8-a176-230c43cf893f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoom: 120%'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>04b5345e-7c5e-48fb-9652-a55291b96a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Faris Fildza Che Mohammad Idza'])[2]/preceding::*[name()='svg'][6]</value>
+      <webElementGuid>b3372d27-4ade-4861-ae5e-e2c214f6293a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oops'])[1]/preceding::*[name()='svg'][17]</value>
+      <webElementGuid>ba42ccc5-5a69-4761-87c2-d3b54b680b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

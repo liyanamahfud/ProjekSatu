@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointCuraLogin</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/CuraLogin</source-url>
+   </source-info>
+   <taken-date>2024-01-05T10:15:29.122</taken-date>
+   <column-names>
+      <column-name>url</column-name>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "https://katalon-demo-cura.herokuapp.com/",
+      "checked": false
+    },
+    {
+      "value": "John Doe",
+      "checked": true
+    },
+    {
+      "value": "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "https://katalon-demo-cura.herokuapp.com/",
+      "checked": false
+    },
+    {
+      "value": "Faris",
+      "checked": true
+    },
+    {
+      "value": "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "https://katalon-demo-cura.herokuapp.com/",
+      "checked": false
+    },
+    {
+      "value": "Liyana",
+      "checked": true
+    },
+    {
+      "value": "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
